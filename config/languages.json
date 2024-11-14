@@ -1,0 +1,15 @@
+{
+    "zh_CN": {
+        "game_title": "数独游戏",
+        "difficulty": "难度选择",
+        "level": "关卡选择",
+        "numpad": "数字键盘",
+        "difficulties": {
+            "easy": "简单",
+            "medium": "中等",
+            "hard": "困难",
+            "expert": "专家"
+        },
+        "title_format": "数独游戏 - {} 第{}关 - {}"
+    }
+} 
