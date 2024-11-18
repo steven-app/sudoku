@@ -2,6 +2,11 @@
 
 A feature-rich Sudoku puzzle game built with Python and Tkinter, offering multiple difficulty levels and a clean, modern interface.
 
+## Screenshot
+
+<img width="998" alt="image" src="https://github.com/user-attachments/assets/5263acc1-39e6-44f2-a2ea-2fc916fe78d8">
+
+
 ## Features
 
 - **4 difficulty levels** (Easy, Medium, Hard, Expert)
@@ -112,3 +117,5 @@ sudoku_game/
 │           ├── styles.py
 │           └── utility_bar.py
 ```
+
+
