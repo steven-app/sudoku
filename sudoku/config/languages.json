@@ -1,0 +1,54 @@
+{
+    "zh_CN": {
+        "game_title": "数独游戏",
+        "difficulties": {
+            "easy": "简单",
+            "medium": "中等",
+            "hard": "困难",
+            "expert": "专家"
+        },
+        "sections": {
+            "difficulty": "难度",
+            "level": "关卡",
+            "numpad": "数字键盘",
+            "timer": "计时器"
+        },
+        "buttons": {
+            "next_level": "下一关",
+            "exit": "退出",
+            "undo": "撤销",
+            "hint": "提示"
+        },
+        "messages": {
+            "game_won": "恭喜！",
+            "level_complete": "{difficulty} 难度第 {level} 关完成！",
+            "all_complete": "恭喜通关所有难度！"
+        }
+    },
+    "en_US": {
+        "game_title": "Sudoku",
+        "difficulties": {
+            "easy": "Easy",
+            "medium": "Medium",
+            "hard": "Hard",
+            "expert": "Expert"
+        },
+        "sections": {
+            "difficulty": "Difficulty",
+            "level": "Level",
+            "numpad": "Number Pad",
+            "timer": "Timer"
+        },
+        "buttons": {
+            "next_level": "Next Level",
+            "exit": "Exit",
+            "undo": "Undo",
+            "hint": "Hint"
+        },
+        "messages": {
+            "game_won": "Congratulations!",
+            "level_complete": "Level {level} Complete ({difficulty})!",
+            "all_complete": "All levels completed!"
+        }
+    }
+}
